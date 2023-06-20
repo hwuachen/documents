@@ -56,3 +56,4 @@ Google Cloud Platform (GCP) offers a variety of tools and services for data inge
 • Data warehouses: GCP offers tools such as BigQuery and Cloud Data Fusion for building data warehouses, which are centralized repositories for storing and querying structured data. These tools can be used to ingest data from a wide range of sources and prepare it for analysis and reporting.
 
 
+https://colab.research.google.com/drive/1Yrs8Zmv3xPYepZsKl1n0JaFIMnKK0GFV#scrollTo=uo81e9sMdKY_
